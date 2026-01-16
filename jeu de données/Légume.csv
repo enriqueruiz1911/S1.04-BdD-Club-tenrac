@@ -1,21 +1,31 @@
 IdL,Vérifié,nom
-1,False,Brocoli
-2,True,Épinard
-3,True,Poireau
-4,True,Épinard
-5,False,Navet
-6,False,Brocoli
-7,False,Aubergine
-8,False,Épinard
-9,False,Tomate
-10,False,Brocoli
-11,True,Courgette
-12,True,Épinard
-13,True,Aubergine
-14,False,Épinard
-15,False,Haricot vert
-16,False,Aubergine
-17,False,Poireau
-18,False,Aubergine
-19,True,Tomate
-20,True,Tomate
+1,False,Courgette
+2,False,Poireau
+3,False,Ail
+4,False,Tomate
+5,False,Tomate
+6,True,Aubergine
+7,False,Petit pois
+8,False,Courgette
+9,False,Ail
+10,False,Navet
+11,False,Poireau
+12,True,Tomate
+13,True,Ail
+14,False,Oignon
+15,True,Courgette
+16,False,Poireau
+17,False,Tomate
+18,True,Navet
+19,False,Échalote
+20,False,Poireau
+21,True,Petit pois
+22,True,Oignon
+23,True,Haricot vert
+24,False,Petit pois
+25,True,Ail
+26,True,Poireau
+27,False,Oignon
+28,True,Échalote
+29,True,Poireau
+30,True,Chou-fleur

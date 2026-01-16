@@ -1,21 +1,31 @@
-IdM,nom,IdMo
-1,Crêpière,13
-2,Batteur,8
-3,Batteur,13
-4,Blender,14
-5,Machine à café,5
-6,Crêpière,11
-7,Machine à glaçons,8
-8,Batteur,11
-9,Presse-agrumes,18
-10,Presse-agrumes,9
-11,Lave-vaisselle,6
-12,Crêpière,9
-13,Friteuse,5
-14,Blender,4
-15,Sorbetière,3
-16,Presse-agrumes,15
-17,Hachoir,3
-18,Machine à café,14
-19,Four,17
-20,Hachoir,15
+IdM,nom
+1,Robot Coupe
+2,Lave-vaisselle
+3,Four Pro
+4,Presse-agrumes
+5,Lave-vaisselle
+6,Chambre Froide
+7,Sorbetière
+8,Friteuse
+9,Presse-agrumes
+10,Friteuse
+11,Presse-agrumes
+12,Batteur
+13,Gaufrier
+14,Chambre Froide
+15,Machine à café
+16,Batteur
+17,Friteuse
+18,Four Pro
+19,Lave-vaisselle
+20,Presse-agrumes
+21,Presse-agrumes
+22,Mixeur
+23,Gaufrier
+24,Friteuse
+25,Presse-agrumes
+26,Machine à café
+27,Robot Coupe
+28,Robot Coupe
+29,Gaufrier
+30,Lave-vaisselle
